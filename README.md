@@ -1,2 +1,2 @@
-# 3rd-Party-Libs for CentOS - x64
+# 3rd-Party-Libs for CentOS - 64-bit
 Third-Party Libraries Used in the IPOP
